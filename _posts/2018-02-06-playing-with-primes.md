@@ -21,7 +21,7 @@ In the above approach, we are dividing $$N$$ by nearly all positive integers bel
 
 Sieve of Eratosthenes makes use of the concept that only multiples of some prime number are composite. In other words, instead of checking divisibility for every number, we just mark the multiples of prime numbers as only those are divisible by that prime number. This helps in fast calculations of primes in some given range.
 
-```
+```c
 
 for(int i = 2; i < siz; i++)
 	if(primes[i] == 0) //If i is prime
@@ -42,7 +42,7 @@ The above implementation was just to check if a number is prime or not, but Siev
 
 We can easily find the number of distinct prime factors for each number in a range.
 
-```
+```c
 
 for(int i = 2; i < siz; i++)
 	if(factors[i] == 0) //If i is prime,
@@ -55,7 +55,7 @@ In above code, we increment the count of factors for each multiple of current pr
 
 The best application of Sieve of Eratosthenes is factorisation in $$log(N)$$ time.
 
-```
+```c
 
 for(int i = 2; i < siz; i++)
 	if(!min_factor[i]) //If i is prime

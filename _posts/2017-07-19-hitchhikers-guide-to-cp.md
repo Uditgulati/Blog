@@ -89,7 +89,7 @@ After reading and understanding the problem, a solution is to be coded for it. A
 **Runtime Complexity Analysis :** 
 Complexity of a solution is a measure of it's runtime or number of operations as a function of input size. Let's take an example, Suppose we have to find the maximum among $$N$$ positive numbers.
 
-```
+```c
 int ans = -1,x;
 for(int i=0;i<N;i++) {
     scanf(“%d”,&x);
@@ -158,7 +158,7 @@ Certain Data Structures and functions are frequently used while coding solutions
 
 Also, you might be wondering that which header files are these data structures and functions part of. Each of the above mentioned data structure and function is having it's own header file. But, instead of adding header file for each of them, one can just add a single header file.
 
-```
+```c
 #include <bits/stdc++.h>
 ```
 
@@ -195,7 +195,7 @@ Following are few frequently encountered mistakes and errors while writing codes
 +   **Comparing floats or doubles.** Float and double do not have infinite precision. One can't just directly check for two floating point values for equality.
 
 Instead of
-```
+```c
 double a, b;
 scanf("%lf%lf", &a, &b);
 if(a == b) {
@@ -204,7 +204,7 @@ if(a == b) {
 ```
 
 Use
-```
+```c
 double a, b;
 scanf("%lf%lf", &a, &b);
 if(fabs(a - b) < 0.000001) {
