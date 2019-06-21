@@ -2,6 +2,7 @@
 layout: post
 title:  "GSoC project introduction: Adding features to NMatrix core"
 date:   2019-05-21
+category: open-source
 ---
 
 Google Summer of Code is an annual global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 3 month programming project. 

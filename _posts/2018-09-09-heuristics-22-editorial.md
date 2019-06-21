@@ -2,6 +2,7 @@
 layout: post
 title:  "Heuristics 22 Editorial"
 date:   2018-09-09
+category: competitive-programming
 ---
 
 ## Easy Problem

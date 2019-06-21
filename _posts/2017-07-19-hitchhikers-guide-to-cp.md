@@ -2,6 +2,7 @@
 layout: post
 title:  "Hitchhiker's Guide to Competitive Programming"
 date:   2017-07-19
+category: competitive-programming
 ---
 
 # Introduction

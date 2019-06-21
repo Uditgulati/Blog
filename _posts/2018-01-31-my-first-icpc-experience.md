@@ -2,6 +2,7 @@
 layout: post
 title:  "My first ICPC experience"
 date:   2018-01-31
+category: competitive-programming
 ---
 
 <p class="intro"><span class="dropcap">A</span>CM-ICPC has been a goal for me since the starting days of my Competitive Programming journey. It's a contest where the bests of bests compete against each other, so the competition is really tough(actually, not so tough :P).</p>

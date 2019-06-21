@@ -2,6 +2,7 @@
 layout: post
 title:  "Playing with primes"
 date:   2018-02-06
+category: competitive-programming
 ---
 
 <p class="intro"><span class="dropcap">P</span>rime numbers are an important portion of mathematics. Their concept is simple and were discovered a long time ago, but still there is a lot of research going on them. Their applications are in many fields and one popular example is in field of cryptography(used in RSA encryption).</p>
