@@ -29,8 +29,13 @@ GSoC 2019 proposal - [https://docs.google.com/document/d/1MR01QZeX_8h7a16nmkOYly
 
 ## Future work
 
-TODO
++   As these features are core to NMatrix, they need to be tested more tightly and benchmarked. Also, since this is the first implementation of the features, some modifications can make these features more reliable and faster.
++   More iterators are to be implemented in order to have a richer NMatrix API.
++   The issue with slicing needs to be fixed soon. Also, need to standardize the formatting used for slice range specification.
++   Broadcasting needs to be tested and benchmarked. This will let us improve it's reliability and performance. A few APIs could be exposed which would let a user manually broadcast a matrix to a given shape.
++   NumRuby::Lapack needs to have proper exception handling for LAPACK routines. This will be done by reading the info value returned by routine and raising exception accordingly.
++   NumRuby::Linalg can be extended to have even more methods.
 
 ## Acknowledgements
 
-TODO
+I wanna thank Ruby Science Foundation, all mentors and org admins for providing me this wonderful opportunity to enhance my knowledge and work on a project. I would also like to thank Google for organizing such a wonderful program due to which I got introduced to Open-source and Ruby Science Foundation. I especially want to thank my mentor Prasun Anand for guiding me through this period, keeping me motivated and for tolerating my procrastination.
