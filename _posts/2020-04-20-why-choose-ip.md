@@ -31,6 +31,8 @@ Taking IP as optional subject will help a lot if one is a non-medical student as
 
 If you want to pursue engineering then computer programming is the most helpful skill to learn during the college period. It not only helps in securing a good job but also helps to improve logical thinking. It is very important to be fluent in coding when the specialization is Computer science. Even with specialization other than Computer science may it be Electronic, Electrical, Civil or Mechanical, most students end up working in tech companies where most of their work involves using computer programming skills. So, if one wants to be successful as an engineering, learning to code is the most sane thing to do.
 
+For fields other than engineering, like biology and commerce, the skill of coding still helps a lot as if one knows how to code can easily write small scripts to automate most of the work. In both of these fields, there is a lot of work related to processing and analyzing data and such work can be done easily and quickly using simple python scripts.
+
 ## Final thought
 
 It may be that you are not sure about if you want to do engineering or not or if you want to pursue Computer science or not. It is best to atleast giving IP a try during 11th if there is a possibility of you ending up taking engineering. You'll also get the understanding that if Computer science is really one of your interests. If that is not the case, then you can change to some other optional subject in 12th. Even if you do not end up taking engineering or working in a tech company, the skill of coding would still be helpful in other fields as logical thinking applies to essentially every field.
